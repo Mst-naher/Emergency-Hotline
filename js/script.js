@@ -1,6 +1,11 @@
 // console.log('connected')
 
+let count = 0;
 
+const increaseCount = document.getElementById("count-increase-btn").addEventListener('click', function(){
+  
+  console.log(increaseCount);
+});
 
 
 function alertMessage() {
