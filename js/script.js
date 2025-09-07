@@ -52,6 +52,8 @@ newCall.innerHTML = `
 
 callContainer.append("newCall");
 
+newCall.innerHTML = "";
+
 
 });
 
